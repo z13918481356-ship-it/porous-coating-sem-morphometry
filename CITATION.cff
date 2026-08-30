@@ -8,6 +8,7 @@ authors:
 version: 0.2.0
 date-released: 2026-08-30
 license: MIT
+repository-code: "https://github.com/z13918481356-ship-it/porous-coating-sem-morphometry"
 references:
   - type: data
     title: "Dataset of the manuscript: A supraparticle-based approach to robust biomimetic superhydrophobic coatings"

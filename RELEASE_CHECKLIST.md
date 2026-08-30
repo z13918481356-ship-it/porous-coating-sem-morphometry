@@ -16,22 +16,22 @@ Status recorded on 2026-08-30 for the standalone local repository on branch `cod
 - [x] Final DOCX accessibility audit reports zero findings.
 - [x] Final PDF is two US Letter pages; every page has been rasterized and visually checked.
 - [x] Report text contains the frozen U-Net/Otsu values and the eight-condition property-model limitation.
-- [x] No remote push or public release has been performed.
+- [x] Public GitHub repository created at `z13918481356-ship-it/porous-coating-sem-morphometry` without auto-generated files.
 
 ## Before creating the public GitHub repository
 
-- [ ] Confirm the public repository name; recommended: `porous-coating-sem-morphometry`.
-- [ ] Confirm that `Yuexuan Zhu` is the desired public citation author name.
-- [ ] Create an empty GitHub repository without generating another README, license, or `.gitignore`.
-- [ ] Add the new repository URL to `CITATION.cff` as `repository-code`.
+- [x] Public repository name: `porous-coating-sem-morphometry`.
+- [x] Public citation author inherited from the existing Git configuration: `Yuexuan Zhu`.
+- [x] Empty GitHub repository created without another README, license, or `.gitignore`.
+- [x] New repository URL added to `CITATION.cff` as `repository-code`.
 - [ ] Add the new remote and verify it does not point to the unrelated parent project.
 - [ ] Push `codex/portfolio-release`, review the rendered README and Actions result, then merge or rename it to the desired default branch.
 - [ ] Optionally attach the DOCX/PDF report to a GitHub Release; do not attach source-data archives or redistributed model-development data without rechecking license and size policy.
 
-Suggested remote commands after the repository is created:
+Remote commands used for this standalone project:
 
 ```powershell
-git remote add origin https://github.com/<account>/porous-coating-sem-morphometry.git
+git remote add origin https://github.com/z13918481356-ship-it/porous-coating-sem-morphometry.git
 git remote -v
 git push -u origin codex/portfolio-release
 ```

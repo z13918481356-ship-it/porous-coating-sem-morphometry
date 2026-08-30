@@ -2,6 +2,8 @@
 
 Reproducible phase-1 analysis of the Zenodo dataset **“A supraparticle-based approach to robust biomimetic superhydrophobic coatings”** (DOI: [10.5281/zenodo.16054027](https://doi.org/10.5281/zenodo.16054027)). The project is deliberately scoped to **morphology–wetting/durability associations**. It does not predict emissivity, reflectance, or absorption because the source data contain no optical-property labels.
 
+Repository: [z13918481356-ship-it/porous-coating-sem-morphometry](https://github.com/z13918481356-ship-it/porous-coating-sem-morphometry)
+
 ## Results at a glance
 
 | Question | Evidence | Defensible conclusion |

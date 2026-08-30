@@ -1,8 +1,12 @@
 [project]
 name = "porous-coating-sem-morphometry"
-version = "0.1.0"
+version = "0.2.0"
 description = "Leakage-aware SEM morphometry and wetting/durability association analysis"
 requires-python = ">=3.11"
+
+[project.urls]
+Repository = "https://github.com/z13918481356-ship-it/porous-coating-sem-morphometry"
+Documentation = "https://github.com/z13918481356-ship-it/porous-coating-sem-morphometry#readme"
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]
