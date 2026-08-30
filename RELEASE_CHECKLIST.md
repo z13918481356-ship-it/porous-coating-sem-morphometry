@@ -24,8 +24,8 @@ Status recorded on 2026-08-30 for the standalone local repository on branch `cod
 - [x] Public citation author inherited from the existing Git configuration: `Yuexuan Zhu`.
 - [x] Empty GitHub repository created without another README, license, or `.gitignore`.
 - [x] New repository URL added to `CITATION.cff` as `repository-code`.
-- [ ] Add the new remote and verify it does not point to the unrelated parent project.
-- [ ] Push `codex/portfolio-release`, review the rendered README and Actions result, then merge or rename it to the desired default branch.
+- [x] Add the new remote and verify it does not point to the unrelated parent project.
+- [x] Push `codex/portfolio-release`; GitHub Actions `tests` and the dependency-graph update both completed successfully before publishing the same reviewed commit to `main`.
 - [ ] Optionally attach the DOCX/PDF report to a GitHub Release; do not attach source-data archives or redistributed model-development data without rechecking license and size policy.
 
 Remote commands used for this standalone project:
