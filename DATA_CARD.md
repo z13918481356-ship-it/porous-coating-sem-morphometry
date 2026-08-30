@@ -27,6 +27,10 @@ The archive is organised by manuscript figure. It contains multi-magnification t
 
 ## Known limitations
 
+### Fiji/ImageJ review scope
+
+The Fiji/ImageJ cross-check uses a frozen, role-stratified 12-image subset (seed 20260830), the same cropped/normalized ROI and per-image physical calibration as the Python workflow, and a separately implemented Otsu → binary opening → Watershed → Analyze Particles macro. It validates portability of pore-area fraction and rank ordering of diameter/circularity, not identity of watershed object counts. Object count is sensitive to binary morphology, seed placement, and minimum-object handling; use one software workflow consistently for absolute counts. The versioned outputs are `outputs/fiji_review_manifest.csv`, `outputs/fiji_review_comparison.csv`, and `outputs/fiji_review_summary.csv`; derived input TIFFs and masks are regenerated locally from the licensed raw archive.
+
 1. Only a small number of independent coating conditions have SEM images; confidence intervals are therefore wide and model scores are exploratory.
 2. The dataset lacks pixel-level masks, so supervised U-Net performance cannot be estimated without new annotation.
 3. Threshold-based segmentation is contrast-sensitive and does not uniquely distinguish open pore space from shadowing/topography.

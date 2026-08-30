@@ -1,6 +1,7 @@
 .deps/
 runtime_deps/
 data/raw/
+data/processed/fiji_review/
 data/processed/*.tmp
 __pycache__/
 *.pyc

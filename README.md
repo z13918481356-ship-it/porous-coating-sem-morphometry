@@ -32,6 +32,7 @@ The main scientific distinction is deliberate: **coating morphology-property ana
 - Condition-level leave-one-out models with a training-mean baseline and target-permutation tests.
 - Matched-physical-window cross-magnification recomputation.
 - A balanced 24-patch dual-expert annotation package and external PAAO/FIB-SEM validation adapters.
+- A frozen 12-image Fiji/ImageJ cross-check: per-image scale calibration, Otsu, Watershed, Analyze Particles, and Python/Fiji agreement tables.
 - Exactly five analysis figures and a two-page Chinese DOCX/PDF summary.
 
 ## Scientific guardrails
@@ -54,10 +55,20 @@ python scripts/build_hierarchy_tables.py
 python scripts/build_durability_metrics.py
 python scripts/evaluate_small_data_models.py --permutations 200
 python scripts/build_matched_scale_consistency.py
+python scripts/build_fiji_review_package.py
+# Run fiji/sem_morphometry_review.ijm on data/processed/fiji_review/ (see below)
+python scripts/compare_fiji_python.py
+python scripts/build_fiji_appendix.py
 python scripts/build_report.py --output-root outputs --report-root report
 ```
 
 For this workspace, the dependencies are vendored in `.deps`; the wrapper inserts that directory on `sys.path` automatically.
+
+### Fiji/ImageJ cross-check
+
+The review is intentionally independent of Python's connected-component implementation. `build_fiji_review_package.py` makes a deterministic stratified 12-image subset (seed `20260830`) from the same cropped, normalized ROIs used by the Python pipeline and records pixel calibration and the image-adaptive minimum object area. Run `fiji/sem_morphometry_review.ijm` in Fiji/ImageJ with `data/processed/fiji_review/` as the macro argument, then run `compare_fiji_python.py`.
+
+On the frozen subset, pore-area fraction agreed nearly exactly (Spearman ρ=1.00; median absolute difference 0.00213); equivalent diameter and circularity retained strong rank agreement (ρ=0.99 each). Object count did not transfer cleanly (ρ=0.51), as expected when the two Watershed implementations place different split boundaries. See `report/Fiji_ImageJ_复核方法附录.docx` and its PDF for the protocol, limits, and failure cases.
 
 ## Reproduce the independent FIB-SEM benchmark
 
@@ -95,6 +106,8 @@ The frozen design is recorded before training in `FIBSEM_UNET_LOCKED_PROTOCOL.md
 - `outputs/durability_*.csv`: cycle trajectories, summaries, and failure-threshold sensitivity.
 - `outputs/small_data_*.csv`: condition-level baseline/model predictions and permutation nulls.
 - `outputs/matched_scale_*.csv`: physically matched cross-magnification features and consistency.
+- `outputs/fiji_review_manifest.csv`, `outputs/fiji_review_comparison.csv`, `outputs/fiji_review_summary.csv`: frozen sample, per-image Fiji/Python comparison, and agreement summary.
+- `outputs/figures/fiji_imagej_crosscheck.png`: four-metric Python versus Fiji/ImageJ agreement plot.
 - `outputs/external_paao_*.csv`: verified PAAO domain-shift, rank-consistency, and failure-case results.
 - `outputs/external_validation/paao_segmentation_diagnostics.png`: external raw/mask and scale-sensitivity review figure.
 - `outputs/external_fibsem_classical_metrics.csv`, `outputs/external_fibsem_summary.csv`: locked independent-mask scores for 24 official FIB-SEM test squares.
@@ -106,6 +119,7 @@ The frozen design is recorded before training in `FIBSEM_UNET_LOCKED_PROTOCOL.md
 - `annotations/`: 24 image patches, split manifest, and empty expert-mask directories.
 - `outputs/figures/figure_1_...png` through `figure_5_...png`.
 - `report/SEM形貌_润湿耐久性关联_两页报告.docx` and its PDF rendering.
+- `report/Fiji_ImageJ_复核方法附录.docx` and its one-page PDF rendering.
 
 ## Portfolio deliverables
 
