@@ -18,7 +18,7 @@ Status recorded on 2026-08-30 for the standalone local repository on branch `cod
 - [x] Report text contains the frozen U-Net/Otsu values and the eight-condition property-model limitation.
 - [x] Public GitHub repository created at `z13918481356-ship-it/porous-coating-sem-morphometry` without auto-generated files.
 
-## Before creating the public GitHub repository
+## Public GitHub publication
 
 - [x] Public repository name: `porous-coating-sem-morphometry`.
 - [x] Public citation author inherited from the existing Git configuration: `Yuexuan Zhu`.
@@ -26,7 +26,10 @@ Status recorded on 2026-08-30 for the standalone local repository on branch `cod
 - [x] New repository URL added to `CITATION.cff` as `repository-code`.
 - [x] Add the new remote and verify it does not point to the unrelated parent project.
 - [x] Push `codex/portfolio-release`; GitHub Actions `tests` and the dependency-graph update both completed successfully before publishing the same reviewed commit to `main`.
-- [ ] Optionally attach the DOCX/PDF report to a GitHub Release; do not attach source-data archives or redistributed model-development data without rechecking license and size policy.
+- [x] Publish `v0.2.0` from commit `9c671b6953ca6107bb3135a333e0c1791c1cbbf3` and attach the final DOCX/PDF reports.
+- [x] Verify the public tag matches the reviewed `main` commit and both attachment URLs return HTTP 200.
+
+Release: https://github.com/z13918481356-ship-it/porous-coating-sem-morphometry/releases/tag/v0.2.0
 
 Remote commands used for this standalone project:
 
