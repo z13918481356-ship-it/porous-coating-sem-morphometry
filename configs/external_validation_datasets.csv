@@ -1,0 +1,3 @@
+dataset_id,zenodo_record,doi,role,has_reference_masks,expected_layout,download_size,license,analysis_scope
+paao_5905496,5905496,10.5281/zenodo.5905496,cross-material and cross-magnification domain-shift check,False,external_data/paao_5905496/*.tif,174.2 MB,CC BY 4.0,segmentation morphology only
+fibsem_4317170,4317170,10.5281/zenodo.4317170,independent reference-mask segmentation benchmark,True,external_data/fibsem_4317170/images + masks,9.2 GB archive,record metadata,segmentation only

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Quantitative SEM Morphometry of Porous Functional Coatings"
+message: "Please cite this software and the source Zenodo dataset."
+type: software
+authors:
+  - family-names: Zhu
+    given-names: Yuexuan
+version: 0.2.0
+date-released: 2026-08-30
+license: MIT
+references:
+  - type: data
+    title: "Dataset of the manuscript: A supraparticle-based approach to robust biomimetic superhydrophobic coatings"
+    authors:
+      - family-names: Sultan
+        given-names: Umair
+      - family-names: Walter
+        given-names: Teresa
+      - family-names: Wachter
+        given-names: Christian
+      - family-names: Swart
+        given-names: Leon
+      - family-names: Vogel
+        given-names: Nicolas
+    doi: 10.5281/zenodo.16054027
+    year: 2025

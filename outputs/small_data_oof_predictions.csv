@@ -1,0 +1,43 @@
+condition_id,condition_key,target,model,observed,predicted
+COND-f10af6c8ba,900C|PUR|unknown|spray|abrasion|15|sprayna,contact_angle_deg,Training-mean baseline,144.51,152.03285714285715
+COND-c870fe0083,base|PDMS|sieved|spray|none|na|sprayna,contact_angle_deg,Training-mean baseline,151.63,151.0157142857143
+COND-c77f15433f,base|PDMS|unsieved|spray|none|na|sprayna,contact_angle_deg,Training-mean baseline,153.49,150.75
+COND-5c33bae2e0,base|PUR|sieved|spray|none|na|sprayna,contact_angle_deg,Training-mean baseline,150.04000000000002,151.24285714285716
+COND-898124971f,base|PUR|unsieved|spray|none|na|sprayna,contact_angle_deg,Training-mean baseline,153.14999999999998,150.79857142857145
+COND-c633d60758,base|unknown|unknown|dip|none|na|sprayna,contact_angle_deg,Training-mean baseline,153.45999999999998,150.75428571428571
+COND-2d166d7240,base|unknown|unknown|spray|none|na|sprayna,contact_angle_deg,Training-mean baseline,153.92000000000002,150.6885714285714
+COND-6c7234361f,unsintered|PDMS|unknown|spray|tape|1|sprayna,contact_angle_deg,Training-mean baseline,148.54,151.45714285714286
+COND-f10af6c8ba,900C|PUR|unknown|spray|abrasion|15|sprayna,contact_angle_deg,Ridge,144.51,151.16044079899552
+COND-c870fe0083,base|PDMS|sieved|spray|none|na|sprayna,contact_angle_deg,Ridge,151.63,151.922304028813
+COND-c77f15433f,base|PDMS|unsieved|spray|none|na|sprayna,contact_angle_deg,Ridge,153.49,151.00781558434537
+COND-5c33bae2e0,base|PUR|sieved|spray|none|na|sprayna,contact_angle_deg,Ridge,150.04000000000002,151.2718884890224
+COND-898124971f,base|PUR|unsieved|spray|none|na|sprayna,contact_angle_deg,Ridge,153.14999999999998,150.60869111750935
+COND-c633d60758,base|unknown|unknown|dip|none|na|sprayna,contact_angle_deg,Ridge,153.45999999999998,150.9312502754094
+COND-2d166d7240,base|unknown|unknown|spray|none|na|sprayna,contact_angle_deg,Ridge,153.92000000000002,139.37730752753615
+COND-6c7234361f,unsintered|PDMS|unknown|spray|tape|1|sprayna,contact_angle_deg,Ridge,148.54,151.0618896795811
+COND-f10af6c8ba,900C|PUR|unknown|spray|abrasion|15|sprayna,contact_angle_deg,Random Forest,144.51,151.2455455952383
+COND-c870fe0083,base|PDMS|sieved|spray|none|na|sprayna,contact_angle_deg,Random Forest,151.63,152.9809733333333
+COND-c77f15433f,base|PDMS|unsieved|spray|none|na|sprayna,contact_angle_deg,Random Forest,153.49,152.22298654761892
+COND-5c33bae2e0,base|PUR|sieved|spray|none|na|sprayna,contact_angle_deg,Random Forest,150.04000000000002,150.70843785714285
+COND-898124971f,base|PUR|unsieved|spray|none|na|sprayna,contact_angle_deg,Random Forest,153.14999999999998,150.36949464285715
+COND-c633d60758,base|unknown|unknown|dip|none|na|sprayna,contact_angle_deg,Random Forest,153.45999999999998,150.62654035714306
+COND-2d166d7240,base|unknown|unknown|spray|none|na|sprayna,contact_angle_deg,Random Forest,153.92000000000002,151.53958250000008
+COND-6c7234361f,unsintered|PDMS|unknown|spray|tape|1|sprayna,contact_angle_deg,Random Forest,148.54,151.4614363095239
+COND-f10af6c8ba,900C|PUR|unknown|spray|abrasion|15|sprayna,pinning_fraction,Training-mean baseline,1.0,0.54
+COND-c870fe0083,base|PDMS|sieved|spray|none|na|sprayna,pinning_fraction,Training-mean baseline,1.0,0.54
+COND-c77f15433f,base|PDMS|unsieved|spray|none|na|sprayna,pinning_fraction,Training-mean baseline,0.0,0.74
+COND-5c33bae2e0,base|PUR|sieved|spray|none|na|sprayna,pinning_fraction,Training-mean baseline,1.0,0.54
+COND-898124971f,base|PUR|unsieved|spray|none|na|sprayna,pinning_fraction,Training-mean baseline,0.0,0.74
+COND-6c7234361f,unsintered|PDMS|unknown|spray|tape|1|sprayna,pinning_fraction,Training-mean baseline,0.7,0.6
+COND-f10af6c8ba,900C|PUR|unknown|spray|abrasion|15|sprayna,pinning_fraction,Ridge,1.0,3.6075791561456914
+COND-c870fe0083,base|PDMS|sieved|spray|none|na|sprayna,pinning_fraction,Ridge,1.0,0.4537975122841219
+COND-c77f15433f,base|PDMS|unsieved|spray|none|na|sprayna,pinning_fraction,Ridge,0.0,0.7239929703392968
+COND-5c33bae2e0,base|PUR|sieved|spray|none|na|sprayna,pinning_fraction,Ridge,1.0,0.5233670561438954
+COND-898124971f,base|PUR|unsieved|spray|none|na|sprayna,pinning_fraction,Ridge,0.0,0.722022125273572
+COND-6c7234361f,unsintered|PDMS|unknown|spray|tape|1|sprayna,pinning_fraction,Ridge,0.7,0.5843058440915845
+COND-f10af6c8ba,900C|PUR|unknown|spray|abrasion|15|sprayna,pinning_fraction,Random Forest,1.0,0.4653000000000001
+COND-c870fe0083,base|PDMS|sieved|spray|none|na|sprayna,pinning_fraction,Random Forest,1.0,0.3795500000000001
+COND-c77f15433f,base|PDMS|unsieved|spray|none|na|sprayna,pinning_fraction,Random Forest,0.0,0.6895499999999992
+COND-5c33bae2e0,base|PUR|sieved|spray|none|na|sprayna,pinning_fraction,Random Forest,1.0,0.4587166666666667
+COND-898124971f,base|PUR|unsieved|spray|none|na|sprayna,pinning_fraction,Random Forest,0.0,0.716633333333333
+COND-6c7234361f,unsintered|PDMS|unknown|spray|tape|1|sprayna,pinning_fraction,Random Forest,0.7,0.5393333333333331

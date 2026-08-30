@@ -1,0 +1,16 @@
+dataset_id,sample_id,magnification_x,relative_path,pixel_size_um,calibration_source,crop_y_px,footer_removed_px,pore_area_fraction,pore_count,pore_eq_diameter_median_px,validation_status
+paao_5905496,AJ-1,100000,AJ-1-04-20-100000x.tif,,missing,1769,118,0.25203924356981344,1058,34.806426751130246,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-1,200000,AJ-1-04-20-200000x.tif,,missing,1769,118,0.267578125,846,11.141814907236473,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-1,50000,AJ-1-04-20-50000x.tif,,missing,1769,118,0.3191173288227812,2015,23.398568422792877,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-2,100000,AJ-2-04-20-100000x.tif,,missing,1769,118,0.2723174065503109,981,39.989859566987285,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-2,200000,AJ-2-04-20-200000x.tif,,missing,1769,118,0.3334770482970605,741,10.998079684646791,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-2,50000,AJ-2-04-20-50000x.tif,,missing,1769,118,0.32266309532221593,2079,24.669991941291908,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-3,100000,AJ-3-04-20-100000x.tif,,missing,1769,118,0.24531123030313737,943,37.2706901372387,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-3,200000,AJ-3-04-20-200000x.tif,,missing,1769,118,0.24879516808578292,748,11.055812783082736,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-3,50000,AJ-3-04-20-50000x.tif,,missing,1769,118,0.28180949468273037,2307,22.820056393372074,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-4,100000,AJ-4-04-20-100000x.tif,,missing,1769,118,0.21547749434708874,970,35.26069168517385,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-4,200000,AJ-4-04-20-200000x.tif,,missing,1769,118,0.19063421910330694,577,11.227230955528665,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-4,50000,AJ-4-04-20-50000x.tif,,missing,1769,118,0.26535201517453366,2323,22.111625566165472,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-5,100000,AJ-5-04-27-100000x.tif,,missing,1769,118,0.23784982908776145,987,37.83016320718592,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-5,200000,AJ-5-04-27-200000x.tif,,missing,1769,118,0.22663592160118712,802,11.11324596323283,domain_shift_descriptive_only_no_reference_masks
+paao_5905496,AJ-5,50000,AJ-5-04-27-50000x.tif,,missing,1769,118,0.2878551838962691,2261,23.31680264534386,domain_shift_descriptive_only_no_reference_masks

@@ -1,0 +1,801 @@
+target,model,permutation_index,mae_skill_vs_mean_baseline
+contact_angle_deg,Ridge,1,-0.7676963162834056
+contact_angle_deg,Ridge,2,-1.4788669179173297
+contact_angle_deg,Ridge,3,-0.5325131801049601
+contact_angle_deg,Ridge,4,0.03613314688369229
+contact_angle_deg,Ridge,5,-0.7389174335215927
+contact_angle_deg,Ridge,6,0.11195419041558097
+contact_angle_deg,Ridge,7,0.9038238238370973
+contact_angle_deg,Ridge,8,-0.05754257884266778
+contact_angle_deg,Ridge,9,0.16644875152589123
+contact_angle_deg,Ridge,10,0.16762750455738384
+contact_angle_deg,Ridge,11,0.15676998541736253
+contact_angle_deg,Ridge,12,-1.935819645415215
+contact_angle_deg,Ridge,13,-0.7869702373404017
+contact_angle_deg,Ridge,14,-0.3346062316469869
+contact_angle_deg,Ridge,15,-0.43501292553537496
+contact_angle_deg,Ridge,16,-0.8145569836412179
+contact_angle_deg,Ridge,17,-0.7259256628689315
+contact_angle_deg,Ridge,18,-0.013470400554830064
+contact_angle_deg,Ridge,19,0.03141027508473471
+contact_angle_deg,Ridge,20,-0.7423478821316074
+contact_angle_deg,Ridge,21,-1.0689653631687612
+contact_angle_deg,Ridge,22,0.5922515677390123
+contact_angle_deg,Ridge,23,-0.39519145088033625
+contact_angle_deg,Ridge,24,-0.3236593809977393
+contact_angle_deg,Ridge,25,0.2909844830338777
+contact_angle_deg,Ridge,26,0.192139885441712
+contact_angle_deg,Ridge,27,-0.4879986837382191
+contact_angle_deg,Ridge,28,-0.7384218920657375
+contact_angle_deg,Ridge,29,-0.05194453519327524
+contact_angle_deg,Ridge,30,0.21811826519054378
+contact_angle_deg,Ridge,31,-0.7497172362368936
+contact_angle_deg,Ridge,32,-0.23946481082316495
+contact_angle_deg,Ridge,33,-1.1468995599186087
+contact_angle_deg,Ridge,34,-0.3095460807701862
+contact_angle_deg,Ridge,35,-0.4921750421328106
+contact_angle_deg,Ridge,36,-0.321467401452999
+contact_angle_deg,Ridge,37,-0.5976649930447202
+contact_angle_deg,Ridge,38,0.016914987373429113
+contact_angle_deg,Ridge,39,-0.23370378302782413
+contact_angle_deg,Ridge,40,-0.7598937888937947
+contact_angle_deg,Ridge,41,0.16857271884280678
+contact_angle_deg,Ridge,42,-0.04434820544916107
+contact_angle_deg,Ridge,43,-0.30353669556302165
+contact_angle_deg,Ridge,44,-0.6732926677538487
+contact_angle_deg,Ridge,45,-0.7369248648679267
+contact_angle_deg,Ridge,46,-0.37423554436261597
+contact_angle_deg,Ridge,47,-0.19644871915239293
+contact_angle_deg,Ridge,48,0.05609420518882402
+contact_angle_deg,Ridge,49,0.4980916567958822
+contact_angle_deg,Ridge,50,-0.13974589758040779
+contact_angle_deg,Ridge,51,-0.815077440646796
+contact_angle_deg,Ridge,52,0.5622050616141614
+contact_angle_deg,Ridge,53,-0.7469274074901158
+contact_angle_deg,Ridge,54,-0.6139460986063412
+contact_angle_deg,Ridge,55,-0.13150838382023267
+contact_angle_deg,Ridge,56,0.19939542132399168
+contact_angle_deg,Ridge,57,-0.3527247540009206
+contact_angle_deg,Ridge,58,-0.31747119073317975
+contact_angle_deg,Ridge,59,0.23388901560114306
+contact_angle_deg,Ridge,60,0.4308151368754878
+contact_angle_deg,Ridge,61,-0.2969815078861906
+contact_angle_deg,Ridge,62,-0.2558817980228909
+contact_angle_deg,Ridge,63,-0.869198005675667
+contact_angle_deg,Ridge,64,-0.5475144806930494
+contact_angle_deg,Ridge,65,-0.27023940233340227
+contact_angle_deg,Ridge,66,-0.017349105763194927
+contact_angle_deg,Ridge,67,0.11873718935996891
+contact_angle_deg,Ridge,68,-0.8844225367298684
+contact_angle_deg,Ridge,69,-0.6006590558493663
+contact_angle_deg,Ridge,70,-0.6311038917155116
+contact_angle_deg,Ridge,71,-1.0640059659233039
+contact_angle_deg,Ridge,72,-0.11202764088597661
+contact_angle_deg,Ridge,73,-0.5141801441606759
+contact_angle_deg,Ridge,74,-0.5888105128085428
+contact_angle_deg,Ridge,75,-0.15510058857980624
+contact_angle_deg,Ridge,76,-1.32401818923503
+contact_angle_deg,Ridge,77,0.017528900216156273
+contact_angle_deg,Ridge,78,0.3547480728478263
+contact_angle_deg,Ridge,79,-0.5365715860956044
+contact_angle_deg,Ridge,80,-0.6885908592074337
+contact_angle_deg,Ridge,81,-1.1992751572291773
+contact_angle_deg,Ridge,82,-0.6277008049607709
+contact_angle_deg,Ridge,83,-0.1362153989422481
+contact_angle_deg,Ridge,84,0.23593555506273844
+contact_angle_deg,Ridge,85,-0.39648298566137896
+contact_angle_deg,Ridge,86,-0.9439385200794135
+contact_angle_deg,Ridge,87,-0.38033827031960854
+contact_angle_deg,Ridge,88,0.25044719366609414
+contact_angle_deg,Ridge,89,0.4874489153711288
+contact_angle_deg,Ridge,90,-0.3163747440905169
+contact_angle_deg,Ridge,91,-0.4970762638838231
+contact_angle_deg,Ridge,92,-0.5147270100858634
+contact_angle_deg,Ridge,93,-0.310659283640895
+contact_angle_deg,Ridge,94,-1.6875758993237469
+contact_angle_deg,Ridge,95,-0.3266313017317337
+contact_angle_deg,Ridge,96,-0.2794445892657649
+contact_angle_deg,Ridge,97,-0.26938593295895075
+contact_angle_deg,Ridge,98,0.006336414469970464
+contact_angle_deg,Ridge,99,0.03247773216879679
+contact_angle_deg,Ridge,100,0.33840754321080624
+contact_angle_deg,Ridge,101,-0.20984452722024471
+contact_angle_deg,Ridge,102,-0.5980840875196343
+contact_angle_deg,Ridge,103,-0.9090798419152968
+contact_angle_deg,Ridge,104,-0.9164922311731303
+contact_angle_deg,Ridge,105,-0.4995073756891948
+contact_angle_deg,Ridge,106,-0.8667613977459752
+contact_angle_deg,Ridge,107,-0.6926322686954229
+contact_angle_deg,Ridge,108,-0.7445865487324994
+contact_angle_deg,Ridge,109,-0.04986292717461538
+contact_angle_deg,Ridge,110,0.08087195039874473
+contact_angle_deg,Ridge,111,0.06121227997887857
+contact_angle_deg,Ridge,112,0.13861022540818269
+contact_angle_deg,Ridge,113,0.6301121699742609
+contact_angle_deg,Ridge,114,-0.7693287184574196
+contact_angle_deg,Ridge,115,-0.8926922014893499
+contact_angle_deg,Ridge,116,-0.22151361851113194
+contact_angle_deg,Ridge,117,-0.6170184763150459
+contact_angle_deg,Ridge,118,-1.3426923838273765
+contact_angle_deg,Ridge,119,0.23996055020088392
+contact_angle_deg,Ridge,120,-0.44519393391355067
+contact_angle_deg,Ridge,121,-1.5845249308593665
+contact_angle_deg,Ridge,122,-0.5035089807342317
+contact_angle_deg,Ridge,123,-0.7762314888992599
+contact_angle_deg,Ridge,124,0.13141966523451387
+contact_angle_deg,Ridge,125,-1.1364067820442791
+contact_angle_deg,Ridge,126,0.0976563352149924
+contact_angle_deg,Ridge,127,-0.21812249991373278
+contact_angle_deg,Ridge,128,0.003514806300138673
+contact_angle_deg,Ridge,129,-0.5685460938083331
+contact_angle_deg,Ridge,130,-0.4525993545952751
+contact_angle_deg,Ridge,131,-0.521391205346184
+contact_angle_deg,Ridge,132,0.04121352391056732
+contact_angle_deg,Ridge,133,-0.2858808187151176
+contact_angle_deg,Ridge,134,0.9104177400830373
+contact_angle_deg,Ridge,135,0.19855094852871957
+contact_angle_deg,Ridge,136,-1.7695955021948038
+contact_angle_deg,Ridge,137,0.9436342892915768
+contact_angle_deg,Ridge,138,-0.38829882569996244
+contact_angle_deg,Ridge,139,-0.1830928638144087
+contact_angle_deg,Ridge,140,-0.2803178484947786
+contact_angle_deg,Ridge,141,0.04045255412751203
+contact_angle_deg,Ridge,142,0.19048951154484683
+contact_angle_deg,Ridge,143,-1.1719719789356446
+contact_angle_deg,Ridge,144,-1.5835134186186863
+contact_angle_deg,Ridge,145,-0.6745424405772873
+contact_angle_deg,Ridge,146,-0.3535950544053499
+contact_angle_deg,Ridge,147,0.10608384224641654
+contact_angle_deg,Ridge,148,-0.4811718187539249
+contact_angle_deg,Ridge,149,-0.11363389065350304
+contact_angle_deg,Ridge,150,0.9925051827398796
+contact_angle_deg,Ridge,151,-0.038017843587446976
+contact_angle_deg,Ridge,152,-0.05499864984458469
+contact_angle_deg,Ridge,153,0.8947302436996516
+contact_angle_deg,Ridge,154,-0.4456927945835574
+contact_angle_deg,Ridge,155,-0.04324335377387456
+contact_angle_deg,Ridge,156,-1.2429587220120126
+contact_angle_deg,Ridge,157,-0.5443933811863211
+contact_angle_deg,Ridge,158,-0.10689302935093892
+contact_angle_deg,Ridge,159,-1.9171164878944822
+contact_angle_deg,Ridge,160,-0.664042056465874
+contact_angle_deg,Ridge,161,0.10616660662896749
+contact_angle_deg,Ridge,162,-0.0044218021583155576
+contact_angle_deg,Ridge,163,-0.6988128367998065
+contact_angle_deg,Ridge,164,-0.004951171450169767
+contact_angle_deg,Ridge,165,0.009296549705506862
+contact_angle_deg,Ridge,166,-0.4446765905099106
+contact_angle_deg,Ridge,167,-0.8109270363285717
+contact_angle_deg,Ridge,168,-0.732638419216876
+contact_angle_deg,Ridge,169,-0.7459580615204402
+contact_angle_deg,Ridge,170,-0.4511318781554152
+contact_angle_deg,Ridge,171,0.08314599640881326
+contact_angle_deg,Ridge,172,-2.0328389888107203
+contact_angle_deg,Ridge,173,-0.732050191795306
+contact_angle_deg,Ridge,174,-0.16728555160625547
+contact_angle_deg,Ridge,175,0.06438290038909145
+contact_angle_deg,Ridge,176,-0.2871204610012157
+contact_angle_deg,Ridge,177,-0.6418403100233192
+contact_angle_deg,Ridge,178,0.3484451196902434
+contact_angle_deg,Ridge,179,-0.573528102537157
+contact_angle_deg,Ridge,180,-0.8896693631777914
+contact_angle_deg,Ridge,181,-0.4922113896632041
+contact_angle_deg,Ridge,182,-1.5676209894121342
+contact_angle_deg,Ridge,183,0.015780882970897636
+contact_angle_deg,Ridge,184,-0.18764199422057715
+contact_angle_deg,Ridge,185,-0.255206999816707
+contact_angle_deg,Ridge,186,-0.016334712619041625
+contact_angle_deg,Ridge,187,-1.2354973199761403
+contact_angle_deg,Ridge,188,0.19394124457146233
+contact_angle_deg,Ridge,189,-0.581937219609383
+contact_angle_deg,Ridge,190,-1.6723737707534845
+contact_angle_deg,Ridge,191,-0.14020036992501872
+contact_angle_deg,Ridge,192,-0.789277468087132
+contact_angle_deg,Ridge,193,-0.3116537541112159
+contact_angle_deg,Ridge,194,0.9283978968335553
+contact_angle_deg,Ridge,195,-0.6445024793331271
+contact_angle_deg,Ridge,196,-0.20048291739998803
+contact_angle_deg,Ridge,197,0.17905774707841005
+contact_angle_deg,Ridge,198,0.1642650295064989
+contact_angle_deg,Ridge,199,-0.6123224832294554
+contact_angle_deg,Ridge,200,-1.2444715988265997
+contact_angle_deg,Random Forest,1,-0.2440509226190386
+contact_angle_deg,Random Forest,2,0.43090880952384225
+contact_angle_deg,Random Forest,3,0.6930019791666417
+contact_angle_deg,Random Forest,4,-0.7025936160713648
+contact_angle_deg,Random Forest,5,0.4198353124999983
+contact_angle_deg,Random Forest,6,-0.5933729613095231
+contact_angle_deg,Random Forest,7,-0.6157117410714079
+contact_angle_deg,Random Forest,8,-0.3951979464285813
+contact_angle_deg,Random Forest,9,-0.4661867410713967
+contact_angle_deg,Random Forest,10,0.4881209970238132
+contact_angle_deg,Random Forest,11,0.10324331845242796
+contact_angle_deg,Random Forest,12,0.007129211309539585
+contact_angle_deg,Random Forest,13,0.49153480654764437
+contact_angle_deg,Random Forest,14,0.21953482142861702
+contact_angle_deg,Random Forest,15,-0.3777698065476045
+contact_angle_deg,Random Forest,16,0.07843270833336291
+contact_angle_deg,Random Forest,17,0.27831877976191777
+contact_angle_deg,Random Forest,18,0.17882613095239464
+contact_angle_deg,Random Forest,19,0.6772184672619268
+contact_angle_deg,Random Forest,20,-0.3591924999999705
+contact_angle_deg,Random Forest,21,-0.467620104166631
+contact_angle_deg,Random Forest,22,-0.20044422619048774
+contact_angle_deg,Random Forest,23,-0.486749077380896
+contact_angle_deg,Random Forest,24,-0.20778299107137954
+contact_angle_deg,Random Forest,25,-0.22881562499996377
+contact_angle_deg,Random Forest,26,-0.4460462351190202
+contact_angle_deg,Random Forest,27,-0.3302845238095067
+contact_angle_deg,Random Forest,28,-0.28838593750000285
+contact_angle_deg,Random Forest,29,-0.5589405357142283
+contact_angle_deg,Random Forest,30,-0.4965055505952307
+contact_angle_deg,Random Forest,31,-0.24926863095234708
+contact_angle_deg,Random Forest,32,0.2289017410714358
+contact_angle_deg,Random Forest,33,-0.39592114583330584
+contact_angle_deg,Random Forest,34,-0.4562221577380079
+contact_angle_deg,Random Forest,35,0.30622592261903137
+contact_angle_deg,Random Forest,36,0.06047245535717494
+contact_angle_deg,Random Forest,37,0.44661400297617604
+contact_angle_deg,Random Forest,38,-0.34943339285710806
+contact_angle_deg,Random Forest,39,0.6537654910714252
+contact_angle_deg,Random Forest,40,-0.12236254464280094
+contact_angle_deg,Random Forest,41,0.1606263988094554
+contact_angle_deg,Random Forest,42,-0.195384136904746
+contact_angle_deg,Random Forest,43,-0.35585525297615916
+contact_angle_deg,Random Forest,44,0.17025852678575504
+contact_angle_deg,Random Forest,45,0.8215516964285179
+contact_angle_deg,Random Forest,46,-0.36345525297615566
+contact_angle_deg,Random Forest,47,0.2049874255952595
+contact_angle_deg,Random Forest,48,-0.5264765476189979
+contact_angle_deg,Random Forest,49,-0.5152642559523635
+contact_angle_deg,Random Forest,50,0.2495052529762134
+contact_angle_deg,Random Forest,51,0.44292675595240283
+contact_angle_deg,Random Forest,52,0.025702782738108
+contact_angle_deg,Random Forest,53,-0.03581244047618526
+contact_angle_deg,Random Forest,54,0.5643011904762218
+contact_angle_deg,Random Forest,55,0.20370239583335348
+contact_angle_deg,Random Forest,56,0.5260895833333521
+contact_angle_deg,Random Forest,57,0.08724535714289772
+contact_angle_deg,Random Forest,58,-0.44486885416666055
+contact_angle_deg,Random Forest,59,-0.12674422619043213
+contact_angle_deg,Random Forest,60,0.5694584672619492
+contact_angle_deg,Random Forest,61,0.17363924107143092
+contact_angle_deg,Random Forest,62,0.3862691369047546
+contact_angle_deg,Random Forest,63,0.266573482142892
+contact_angle_deg,Random Forest,64,-0.11964802083335258
+contact_angle_deg,Random Forest,65,-0.6679138988094557
+contact_angle_deg,Random Forest,66,0.07975208333330741
+contact_angle_deg,Random Forest,67,0.3857029613095726
+contact_angle_deg,Random Forest,68,0.3790497470238421
+contact_angle_deg,Random Forest,69,-0.28006604166666804
+contact_angle_deg,Random Forest,70,-0.5856001190476263
+contact_angle_deg,Random Forest,71,-0.47689866071420184
+contact_angle_deg,Random Forest,72,-0.31136519345233893
+contact_angle_deg,Random Forest,73,0.03802766369052435
+contact_angle_deg,Random Forest,74,0.34562504464290456
+contact_angle_deg,Random Forest,75,-0.5380396726190035
+contact_angle_deg,Random Forest,76,-0.4133977678570666
+contact_angle_deg,Random Forest,77,0.7733224851190599
+contact_angle_deg,Random Forest,78,0.656253928571445
+contact_angle_deg,Random Forest,79,1.0726693601190114
+contact_angle_deg,Random Forest,80,-0.0473376041666711
+contact_angle_deg,Random Forest,81,-0.5913164285713748
+contact_angle_deg,Random Forest,82,-0.0815215029760985
+contact_angle_deg,Random Forest,83,0.5933292410714408
+contact_angle_deg,Random Forest,84,-0.4990911011904444
+contact_angle_deg,Random Forest,85,-0.5669252232142377
+contact_angle_deg,Random Forest,86,-0.6398873214285317
+contact_angle_deg,Random Forest,87,-0.048530580357098785
+contact_angle_deg,Random Forest,88,0.2708404464285472
+contact_angle_deg,Random Forest,89,-0.5595990922618412
+contact_angle_deg,Random Forest,90,-0.17847430059522296
+contact_angle_deg,Random Forest,91,-0.4302161458333096
+contact_angle_deg,Random Forest,92,-0.1427093749999493
+contact_angle_deg,Random Forest,93,0.8175505505951861
+contact_angle_deg,Random Forest,94,0.2717443898810181
+contact_angle_deg,Random Forest,95,-0.41391958333331047
+contact_angle_deg,Random Forest,96,0.23115098214287855
+contact_angle_deg,Random Forest,97,-0.08792684523806926
+contact_angle_deg,Random Forest,98,-0.3080805803570783
+contact_angle_deg,Random Forest,99,-0.40633699404759227
+contact_angle_deg,Random Forest,100,0.3300099851190801
+contact_angle_deg,Random Forest,101,-0.38582473214285784
+contact_angle_deg,Random Forest,102,-0.0947257440475866
+contact_angle_deg,Random Forest,103,0.07496721726187872
+contact_angle_deg,Random Forest,104,0.03856501488099795
+contact_angle_deg,Random Forest,105,0.05747691964290169
+contact_angle_deg,Random Forest,106,0.05286224702380693
+contact_angle_deg,Random Forest,107,-0.12034102678565617
+contact_angle_deg,Random Forest,108,0.1616444494048217
+contact_angle_deg,Random Forest,109,0.5578164583333525
+contact_angle_deg,Random Forest,110,-0.2430125148808706
+contact_angle_deg,Random Forest,111,-0.13192964285711284
+contact_angle_deg,Random Forest,112,0.2044206101190511
+contact_angle_deg,Random Forest,113,0.07092657738098751
+contact_angle_deg,Random Forest,114,-0.3940873660713926
+contact_angle_deg,Random Forest,115,-0.5414977380952024
+contact_angle_deg,Random Forest,116,0.26420162202380837
+contact_angle_deg,Random Forest,117,-0.07771373511902979
+contact_angle_deg,Random Forest,118,0.29973196428568016
+contact_angle_deg,Random Forest,119,-0.5727202529761755
+contact_angle_deg,Random Forest,120,-0.38551404761897956
+contact_angle_deg,Random Forest,121,0.772280967261878
+contact_angle_deg,Random Forest,122,0.27383903273812393
+contact_angle_deg,Random Forest,123,-0.14570808035714933
+contact_angle_deg,Random Forest,124,-0.022416130952365165
+contact_angle_deg,Random Forest,125,0.392000699404786
+contact_angle_deg,Random Forest,126,-0.5682372023809314
+contact_angle_deg,Random Forest,127,0.15641395833330307
+contact_angle_deg,Random Forest,128,-0.1071612351190474
+contact_angle_deg,Random Forest,129,-0.5787275595237702
+contact_angle_deg,Random Forest,130,-0.6013764732142555
+contact_angle_deg,Random Forest,131,-0.14592822916665327
+contact_angle_deg,Random Forest,132,-0.3534185119046711
+contact_angle_deg,Random Forest,133,0.49789495535716455
+contact_angle_deg,Random Forest,134,0.3138572470238117
+contact_angle_deg,Random Forest,135,-0.22072139880949848
+contact_angle_deg,Random Forest,136,-0.05927041666662447
+contact_angle_deg,Random Forest,137,0.5993613095237933
+contact_angle_deg,Random Forest,138,0.08428043154761511
+contact_angle_deg,Random Forest,139,-0.14782449404764364
+contact_angle_deg,Random Forest,140,-0.3365871726190477
+contact_angle_deg,Random Forest,141,-0.09620441964285575
+contact_angle_deg,Random Forest,142,-0.09500337797614478
+contact_angle_deg,Random Forest,143,-0.3301155505951918
+contact_angle_deg,Random Forest,144,0.1673193303571594
+contact_angle_deg,Random Forest,145,-0.34090544642853615
+contact_angle_deg,Random Forest,146,0.1480227232143143
+contact_angle_deg,Random Forest,147,0.0534771279762154
+contact_angle_deg,Random Forest,148,0.06316642857145283
+contact_angle_deg,Random Forest,149,0.3070683035714765
+contact_angle_deg,Random Forest,150,0.4938186904762176
+contact_angle_deg,Random Forest,151,-0.49803845238093203
+contact_angle_deg,Random Forest,152,-0.30894895833330693
+contact_angle_deg,Random Forest,153,0.04510068452383109
+contact_angle_deg,Random Forest,154,-0.32448727678569256
+contact_angle_deg,Random Forest,155,-0.41374147321424104
+contact_angle_deg,Random Forest,156,-0.3362232589285483
+contact_angle_deg,Random Forest,157,-0.13527705357140007
+contact_angle_deg,Random Forest,158,-0.5545158779761366
+contact_angle_deg,Random Forest,159,0.32878510416664497
+contact_angle_deg,Random Forest,160,-0.4767144345237533
+contact_angle_deg,Random Forest,161,0.42714985119052784
+contact_angle_deg,Random Forest,162,-0.11209946428570206
+contact_angle_deg,Random Forest,163,0.03183700892859065
+contact_angle_deg,Random Forest,164,0.03620498511899939
+contact_angle_deg,Random Forest,165,0.4492373363094835
+contact_angle_deg,Random Forest,166,-0.025084122023791622
+contact_angle_deg,Random Forest,167,-0.5471942857142444
+contact_angle_deg,Random Forest,168,0.4168180803571957
+contact_angle_deg,Random Forest,169,0.5322228125000343
+contact_angle_deg,Random Forest,170,0.8097200744047761
+contact_angle_deg,Random Forest,171,0.9942594642856903
+contact_angle_deg,Random Forest,172,-0.050972053571396
+contact_angle_deg,Random Forest,173,-0.04628813988096425
+contact_angle_deg,Random Forest,174,0.6288324702381267
+contact_angle_deg,Random Forest,175,-0.4272050595237964
+contact_angle_deg,Random Forest,176,0.24214516369045214
+contact_angle_deg,Random Forest,177,-0.016920982142856644
+contact_angle_deg,Random Forest,178,-0.57261924107139
+contact_angle_deg,Random Forest,179,-0.6171745089285885
+contact_angle_deg,Random Forest,180,-0.5130547916666437
+contact_angle_deg,Random Forest,181,-0.5900734970237416
+contact_angle_deg,Random Forest,182,-0.19959552083327736
+contact_angle_deg,Random Forest,183,-0.27647238095237014
+contact_angle_deg,Random Forest,184,-0.24222032738091315
+contact_angle_deg,Random Forest,185,-0.5967059374999728
+contact_angle_deg,Random Forest,186,-0.3077725744047939
+contact_angle_deg,Random Forest,187,-0.5030372321428196
+contact_angle_deg,Random Forest,188,-0.008731026785675056
+contact_angle_deg,Random Forest,189,-0.2511115773809003
+contact_angle_deg,Random Forest,190,0.10043306547619224
+contact_angle_deg,Random Forest,191,0.37420238095236513
+contact_angle_deg,Random Forest,192,0.4463967261904891
+contact_angle_deg,Random Forest,193,0.05494955357147191
+contact_angle_deg,Random Forest,194,-0.32202583333330637
+contact_angle_deg,Random Forest,195,-0.28591157738095774
+contact_angle_deg,Random Forest,196,-0.1134204166666386
+contact_angle_deg,Random Forest,197,0.12177910714284579
+contact_angle_deg,Random Forest,198,0.5341736607142877
+contact_angle_deg,Random Forest,199,-0.3286154910714103
+contact_angle_deg,Random Forest,200,-0.17885587797622549
+pinning_fraction,Ridge,1,-2.29916651581924
+pinning_fraction,Ridge,2,-2.804243419182421
+pinning_fraction,Ridge,3,0.11915410067385357
+pinning_fraction,Ridge,4,-0.5863065882304808
+pinning_fraction,Ridge,5,-2.092341713504078
+pinning_fraction,Ridge,6,-2.0689688837801756
+pinning_fraction,Ridge,7,-2.5912824410007658
+pinning_fraction,Ridge,8,-2.092341713504078
+pinning_fraction,Ridge,9,-1.022964904615947
+pinning_fraction,Ridge,10,-2.120956221875985
+pinning_fraction,Ridge,11,-1.022964904615947
+pinning_fraction,Ridge,12,-2.255711072592235
+pinning_fraction,Ridge,13,-2.3447320362579083
+pinning_fraction,Ridge,14,-2.120956221875985
+pinning_fraction,Ridge,15,-2.255711072592235
+pinning_fraction,Ridge,16,-2.0689688837801756
+pinning_fraction,Ridge,17,-2.5912824410007658
+pinning_fraction,Ridge,18,-1.6621118329057183
+pinning_fraction,Ridge,19,-1.5900312229078104
+pinning_fraction,Ridge,20,-1.2821738247079866
+pinning_fraction,Ridge,21,-2.0525455852757957
+pinning_fraction,Ridge,22,-0.2926354665026173
+pinning_fraction,Ridge,23,-2.0525455852757957
+pinning_fraction,Ridge,24,-2.092341713504078
+pinning_fraction,Ridge,25,-0.2926354665026173
+pinning_fraction,Ridge,26,-2.064512935709138
+pinning_fraction,Ridge,27,0.033057354751786894
+pinning_fraction,Ridge,28,-2.0104540438970724
+pinning_fraction,Ridge,29,0.033057354751786894
+pinning_fraction,Ridge,30,-2.064512935709138
+pinning_fraction,Ridge,31,0.030766691590050577
+pinning_fraction,Ridge,32,-1.3099019849093334
+pinning_fraction,Ridge,33,-0.2926354665026173
+pinning_fraction,Ridge,34,0.033057354751786894
+pinning_fraction,Ridge,35,-1.1620276253791715
+pinning_fraction,Ridge,36,0.033057354751786894
+pinning_fraction,Ridge,37,0.056858271511626035
+pinning_fraction,Ridge,38,-2.0525455852757957
+pinning_fraction,Ridge,39,-1.0497689528319343
+pinning_fraction,Ridge,40,-2.064512935709138
+pinning_fraction,Ridge,41,-1.2688285120745473
+pinning_fraction,Ridge,42,-1.0419201115637593
+pinning_fraction,Ridge,43,-1.977514943944387
+pinning_fraction,Ridge,44,-2.120956221875985
+pinning_fraction,Ridge,45,-1.9096700238167614
+pinning_fraction,Ridge,46,-0.5863065882304808
+pinning_fraction,Ridge,47,-1.2688285120745473
+pinning_fraction,Ridge,48,-2.092341713504078
+pinning_fraction,Ridge,49,-1.6584385609649195
+pinning_fraction,Ridge,50,-2.3447320362579083
+pinning_fraction,Ridge,51,-1.4452557340179433
+pinning_fraction,Ridge,52,-2.2093320982688973
+pinning_fraction,Ridge,53,-2.4839793856523564
+pinning_fraction,Ridge,54,-1.1620276253791715
+pinning_fraction,Ridge,55,-2.092341713504078
+pinning_fraction,Ridge,56,-1.2927980099487237
+pinning_fraction,Ridge,57,-1.6468123070244733
+pinning_fraction,Ridge,58,-2.804243419182421
+pinning_fraction,Ridge,59,-1.5900312229078104
+pinning_fraction,Ridge,60,-2.255711072592235
+pinning_fraction,Ridge,61,0.033057354751786894
+pinning_fraction,Ridge,62,-2.2093320982688973
+pinning_fraction,Ridge,63,-1.6468123070244733
+pinning_fraction,Ridge,64,0.033057354751786894
+pinning_fraction,Ridge,65,-2.5912824410007658
+pinning_fraction,Ridge,66,-0.4624332134160644
+pinning_fraction,Ridge,67,-0.8834661407379787
+pinning_fraction,Ridge,68,-1.512593677082177
+pinning_fraction,Ridge,69,-1.577148378786376
+pinning_fraction,Ridge,70,0.033057354751786894
+pinning_fraction,Ridge,71,-1.58982060082889
+pinning_fraction,Ridge,72,-1.0806523883200199
+pinning_fraction,Ridge,73,0.030766691590050577
+pinning_fraction,Ridge,74,-2.804243419182421
+pinning_fraction,Ridge,75,-1.1984717569106693
+pinning_fraction,Ridge,76,-1.6468123070244733
+pinning_fraction,Ridge,77,-1.022964904615947
+pinning_fraction,Ridge,78,-1.1620276253791715
+pinning_fraction,Ridge,79,-0.4624332134160644
+pinning_fraction,Ridge,80,-1.0806523883200199
+pinning_fraction,Ridge,81,-2.29916651581924
+pinning_fraction,Ridge,82,-1.1620276253791715
+pinning_fraction,Ridge,83,-1.3099019849093334
+pinning_fraction,Ridge,84,-0.9478021728208068
+pinning_fraction,Ridge,85,-1.2821738247079866
+pinning_fraction,Ridge,86,-1.1335312597933738
+pinning_fraction,Ridge,87,-1.2688285120745473
+pinning_fraction,Ridge,88,-1.0806523883200199
+pinning_fraction,Ridge,89,-2.092341713504078
+pinning_fraction,Ridge,90,-1.496353428850845
+pinning_fraction,Ridge,91,-1.6621118329057183
+pinning_fraction,Ridge,92,-0.2926354665026173
+pinning_fraction,Ridge,93,-1.0497689528319343
+pinning_fraction,Ridge,94,-0.9941233351454606
+pinning_fraction,Ridge,95,-1.9400802237984325
+pinning_fraction,Ridge,96,-2.255711072592235
+pinning_fraction,Ridge,97,-1.1984717569106693
+pinning_fraction,Ridge,98,-0.2926354665026173
+pinning_fraction,Ridge,99,-0.45141866586939366
+pinning_fraction,Ridge,100,-2.0104540438970724
+pinning_fraction,Ridge,101,-1.496353428850845
+pinning_fraction,Ridge,102,-2.3447320362579083
+pinning_fraction,Ridge,103,-2.29916651581924
+pinning_fraction,Ridge,104,-1.577148378786376
+pinning_fraction,Ridge,105,0.030766691590050577
+pinning_fraction,Ridge,106,-0.5039476937559355
+pinning_fraction,Ridge,107,-2.0525455852757957
+pinning_fraction,Ridge,108,-2.804243419182421
+pinning_fraction,Ridge,109,-1.022964904615947
+pinning_fraction,Ridge,110,-2.120956221875985
+pinning_fraction,Ridge,111,-2.4839793856523564
+pinning_fraction,Ridge,112,-1.58982060082889
+pinning_fraction,Ridge,113,-2.064512935709138
+pinning_fraction,Ridge,114,-1.6468123070244733
+pinning_fraction,Ridge,115,-0.4624332134160644
+pinning_fraction,Ridge,116,-2.3447320362579083
+pinning_fraction,Ridge,117,-1.8481316647488326
+pinning_fraction,Ridge,118,-1.496353428850845
+pinning_fraction,Ridge,119,-1.577148378786376
+pinning_fraction,Ridge,120,-2.9588530977811627
+pinning_fraction,Ridge,121,-2.3447320362579083
+pinning_fraction,Ridge,122,-1.2688285120745473
+pinning_fraction,Ridge,123,-2.29916651581924
+pinning_fraction,Ridge,124,-2.726733705844428
+pinning_fraction,Ridge,125,-2.804243419182421
+pinning_fraction,Ridge,126,-1.977514943944387
+pinning_fraction,Ridge,127,-2.120956221875985
+pinning_fraction,Ridge,128,0.030766691590050577
+pinning_fraction,Ridge,129,-2.092341713504078
+pinning_fraction,Ridge,130,-2.0104540438970724
+pinning_fraction,Ridge,131,-1.2927980099487237
+pinning_fraction,Ridge,132,-1.58982060082889
+pinning_fraction,Ridge,133,-1.2927980099487237
+pinning_fraction,Ridge,134,-1.977514943944387
+pinning_fraction,Ridge,135,-2.618189455045367
+pinning_fraction,Ridge,136,-2.2383088045423016
+pinning_fraction,Ridge,137,-2.5912824410007658
+pinning_fraction,Ridge,138,-2.0104540438970724
+pinning_fraction,Ridge,139,-0.4624332134160644
+pinning_fraction,Ridge,140,-0.8834661407379787
+pinning_fraction,Ridge,141,-1.4452557340179433
+pinning_fraction,Ridge,142,-1.6584385609649195
+pinning_fraction,Ridge,143,-1.977514943944387
+pinning_fraction,Ridge,144,-1.512593677082177
+pinning_fraction,Ridge,145,0.033057354751786894
+pinning_fraction,Ridge,146,-1.8481316647488326
+pinning_fraction,Ridge,147,-0.45141866586939366
+pinning_fraction,Ridge,148,-1.577148378786376
+pinning_fraction,Ridge,149,0.056858271511626035
+pinning_fraction,Ridge,150,-2.706208479278522
+pinning_fraction,Ridge,151,-1.1984717569106693
+pinning_fraction,Ridge,152,-0.3720206398731596
+pinning_fraction,Ridge,153,-0.2926354665026173
+pinning_fraction,Ridge,154,0.056858271511626035
+pinning_fraction,Ridge,155,-2.0689688837801756
+pinning_fraction,Ridge,156,-1.8481316647488326
+pinning_fraction,Ridge,157,-2.706208479278522
+pinning_fraction,Ridge,158,-1.977514943944387
+pinning_fraction,Ridge,159,-0.5801533132886496
+pinning_fraction,Ridge,160,-1.4452557340179433
+pinning_fraction,Ridge,161,-1.9096700238167614
+pinning_fraction,Ridge,162,-0.45141866586939366
+pinning_fraction,Ridge,163,-0.5039476937559355
+pinning_fraction,Ridge,164,-1.0806523883200199
+pinning_fraction,Ridge,165,-2.3447320362579083
+pinning_fraction,Ridge,166,-1.0497689528319343
+pinning_fraction,Ridge,167,-1.8937004837305802
+pinning_fraction,Ridge,168,-1.577148378786376
+pinning_fraction,Ridge,169,-2.9588530977811627
+pinning_fraction,Ridge,170,-2.618189455045367
+pinning_fraction,Ridge,171,0.056858271511626035
+pinning_fraction,Ridge,172,-2.618189455045367
+pinning_fraction,Ridge,173,-1.6584385609649195
+pinning_fraction,Ridge,174,-2.255711072592235
+pinning_fraction,Ridge,175,-1.8481316647488326
+pinning_fraction,Ridge,176,-0.45141866586939366
+pinning_fraction,Ridge,177,-2.0104540438970724
+pinning_fraction,Ridge,178,-1.6584385609649195
+pinning_fraction,Ridge,179,-2.4839793856523564
+pinning_fraction,Ridge,180,-1.2927980099487237
+pinning_fraction,Ridge,181,-2.0689688837801756
+pinning_fraction,Ridge,182,-0.45141866586939366
+pinning_fraction,Ridge,183,-1.022964904615947
+pinning_fraction,Ridge,184,-0.8834661407379787
+pinning_fraction,Ridge,185,-2.631272529667162
+pinning_fraction,Ridge,186,-1.496353428850845
+pinning_fraction,Ridge,187,-0.9941233351454606
+pinning_fraction,Ridge,188,0.030766691590050577
+pinning_fraction,Ridge,189,-1.0806523883200199
+pinning_fraction,Ridge,190,-0.9941233351454606
+pinning_fraction,Ridge,191,-2.9588530977811627
+pinning_fraction,Ridge,192,-2.0525455852757957
+pinning_fraction,Ridge,193,-2.804243419182421
+pinning_fraction,Ridge,194,-2.9588530977811627
+pinning_fraction,Ridge,195,-1.0419201115637593
+pinning_fraction,Ridge,196,-2.706208479278522
+pinning_fraction,Ridge,197,-2.064512935709138
+pinning_fraction,Ridge,198,-1.8937004837305802
+pinning_fraction,Ridge,199,-2.0689688837801756
+pinning_fraction,Ridge,200,-2.255711072592235
+pinning_fraction,Random Forest,1,0.003383333333333516
+pinning_fraction,Random Forest,2,-0.04189999999999977
+pinning_fraction,Random Forest,3,0.02197222222222267
+pinning_fraction,Random Forest,4,0.06839722222222266
+pinning_fraction,Random Forest,5,-0.0013027777777774308
+pinning_fraction,Random Forest,6,0.029180555555555876
+pinning_fraction,Random Forest,7,0.0436055555555559
+pinning_fraction,Random Forest,8,-0.013705555555555138
+pinning_fraction,Random Forest,9,-0.017816666666666536
+pinning_fraction,Random Forest,10,-0.0533166666666664
+pinning_fraction,Random Forest,11,-0.06679722222222212
+pinning_fraction,Random Forest,12,-0.030074999999999907
+pinning_fraction,Random Forest,13,-0.056594444444444336
+pinning_fraction,Random Forest,14,-0.032163888888888714
+pinning_fraction,Random Forest,15,0.0436055555555559
+pinning_fraction,Random Forest,16,0.0527861111111112
+pinning_fraction,Random Forest,17,-0.04424722222222205
+pinning_fraction,Random Forest,18,0.09297222222222262
+pinning_fraction,Random Forest,19,-0.04424722222222205
+pinning_fraction,Random Forest,20,-0.01499722222222194
+pinning_fraction,Random Forest,21,0.03120555555555593
+pinning_fraction,Random Forest,22,-0.017816666666666536
+pinning_fraction,Random Forest,23,-0.017816666666666536
+pinning_fraction,Random Forest,24,-0.013630555555555424
+pinning_fraction,Random Forest,25,0.0574111111111113
+pinning_fraction,Random Forest,26,-0.06679722222222212
+pinning_fraction,Random Forest,27,-0.030074999999999907
+pinning_fraction,Random Forest,28,0.08695833333333358
+pinning_fraction,Random Forest,29,-0.04581666666666634
+pinning_fraction,Random Forest,30,0.09297222222222262
+pinning_fraction,Random Forest,31,0.02197222222222267
+pinning_fraction,Random Forest,32,0.025391666666666923
+pinning_fraction,Random Forest,33,0.024905555555555736
+pinning_fraction,Random Forest,34,-0.037430555555555356
+pinning_fraction,Random Forest,35,-0.02869444444444408
+pinning_fraction,Random Forest,36,0.04659166666666703
+pinning_fraction,Random Forest,37,0.016822222222222627
+pinning_fraction,Random Forest,38,0.016986111111111313
+pinning_fraction,Random Forest,39,-0.01656666666666634
+pinning_fraction,Random Forest,40,0.03458333333333363
+pinning_fraction,Random Forest,41,0.018272222222222467
+pinning_fraction,Random Forest,42,0.06528611111111127
+pinning_fraction,Random Forest,43,-0.022986111111111096
+pinning_fraction,Random Forest,44,0.0021000000000001573
+pinning_fraction,Random Forest,45,-0.037430555555555356
+pinning_fraction,Random Forest,46,-0.008330555555555452
+pinning_fraction,Random Forest,47,-0.034574999999999745
+pinning_fraction,Random Forest,48,0.03120555555555593
+pinning_fraction,Random Forest,49,-0.022986111111111096
+pinning_fraction,Random Forest,50,-0.0533166666666664
+pinning_fraction,Random Forest,51,0.05522222222222245
+pinning_fraction,Random Forest,52,-0.056858333333332955
+pinning_fraction,Random Forest,53,-0.022986111111111096
+pinning_fraction,Random Forest,54,0.018272222222222467
+pinning_fraction,Random Forest,55,-0.0038194444444441533
+pinning_fraction,Random Forest,56,0.06839722222222266
+pinning_fraction,Random Forest,57,-0.07801944444444436
+pinning_fraction,Random Forest,58,-0.07801944444444436
+pinning_fraction,Random Forest,59,-0.015749999999999875
+pinning_fraction,Random Forest,60,-0.017816666666666536
+pinning_fraction,Random Forest,61,0.024905555555555736
+pinning_fraction,Random Forest,62,0.00864722222222264
+pinning_fraction,Random Forest,63,-0.0533166666666664
+pinning_fraction,Random Forest,64,0.09297222222222262
+pinning_fraction,Random Forest,65,0.0436055555555559
+pinning_fraction,Random Forest,66,0.03120555555555593
+pinning_fraction,Random Forest,67,0.06528611111111127
+pinning_fraction,Random Forest,68,-0.01656666666666634
+pinning_fraction,Random Forest,69,0.016822222222222627
+pinning_fraction,Random Forest,70,-0.04189999999999977
+pinning_fraction,Random Forest,71,0.03458333333333363
+pinning_fraction,Random Forest,72,-0.037430555555555356
+pinning_fraction,Random Forest,73,0.016822222222222627
+pinning_fraction,Random Forest,74,0.003383333333333516
+pinning_fraction,Random Forest,75,-0.032163888888888714
+pinning_fraction,Random Forest,76,-0.02415555555555543
+pinning_fraction,Random Forest,77,0.06528611111111127
+pinning_fraction,Random Forest,78,0.06528611111111127
+pinning_fraction,Random Forest,79,0.0574111111111113
+pinning_fraction,Random Forest,80,-0.04189999999999977
+pinning_fraction,Random Forest,81,-0.0533166666666664
+pinning_fraction,Random Forest,82,-0.020519444444444312
+pinning_fraction,Random Forest,83,-0.02415555555555543
+pinning_fraction,Random Forest,84,-0.04424722222222205
+pinning_fraction,Random Forest,85,-0.01499722222222194
+pinning_fraction,Random Forest,86,-0.01499722222222194
+pinning_fraction,Random Forest,87,-0.013705555555555138
+pinning_fraction,Random Forest,88,-0.013630555555555424
+pinning_fraction,Random Forest,89,0.06839722222222266
+pinning_fraction,Random Forest,90,-0.02415555555555543
+pinning_fraction,Random Forest,91,-0.032163888888888714
+pinning_fraction,Random Forest,92,-0.01656666666666634
+pinning_fraction,Random Forest,93,-0.04424722222222205
+pinning_fraction,Random Forest,94,-0.050547222222221966
+pinning_fraction,Random Forest,95,0.0021000000000001573
+pinning_fraction,Random Forest,96,0.09297222222222262
+pinning_fraction,Random Forest,97,-0.013630555555555424
+pinning_fraction,Random Forest,98,-0.01499722222222194
+pinning_fraction,Random Forest,99,-0.013630555555555424
+pinning_fraction,Random Forest,100,0.016822222222222627
+pinning_fraction,Random Forest,101,0.06839722222222266
+pinning_fraction,Random Forest,102,0.038138888888889055
+pinning_fraction,Random Forest,103,-0.034574999999999745
+pinning_fraction,Random Forest,104,-0.03015833333333323
+pinning_fraction,Random Forest,105,-0.0533166666666664
+pinning_fraction,Random Forest,106,0.03458333333333363
+pinning_fraction,Random Forest,107,-0.02164999999999989
+pinning_fraction,Random Forest,108,0.00864722222222264
+pinning_fraction,Random Forest,109,0.0574111111111113
+pinning_fraction,Random Forest,110,0.0574111111111113
+pinning_fraction,Random Forest,111,-0.04189999999999977
+pinning_fraction,Random Forest,112,0.026980555555555674
+pinning_fraction,Random Forest,113,-0.008330555555555452
+pinning_fraction,Random Forest,114,-0.037430555555555356
+pinning_fraction,Random Forest,115,0.026980555555555674
+pinning_fraction,Random Forest,116,-0.030074999999999907
+pinning_fraction,Random Forest,117,-0.02869444444444408
+pinning_fraction,Random Forest,118,-0.02164999999999989
+pinning_fraction,Random Forest,119,0.024905555555555736
+pinning_fraction,Random Forest,120,0.02847500000000025
+pinning_fraction,Random Forest,121,-0.017816666666666536
+pinning_fraction,Random Forest,122,0.024905555555555736
+pinning_fraction,Random Forest,123,-0.0451805555555555
+pinning_fraction,Random Forest,124,-0.02164999999999989
+pinning_fraction,Random Forest,125,-0.07801944444444436
+pinning_fraction,Random Forest,126,-0.020519444444444312
+pinning_fraction,Random Forest,127,-0.0533166666666664
+pinning_fraction,Random Forest,128,-0.022986111111111096
+pinning_fraction,Random Forest,129,-0.01499722222222194
+pinning_fraction,Random Forest,130,0.006161111111111506
+pinning_fraction,Random Forest,131,-0.0008527777777775913
+pinning_fraction,Random Forest,132,-0.04424722222222205
+pinning_fraction,Random Forest,133,0.003383333333333516
+pinning_fraction,Random Forest,134,0.018272222222222467
+pinning_fraction,Random Forest,135,-0.0451805555555555
+pinning_fraction,Random Forest,136,0.038138888888889055
+pinning_fraction,Random Forest,137,-0.08267777777777757
+pinning_fraction,Random Forest,138,-0.0013027777777774308
+pinning_fraction,Random Forest,139,-0.07801944444444436
+pinning_fraction,Random Forest,140,0.030555555555555836
+pinning_fraction,Random Forest,141,0.02847500000000025
+pinning_fraction,Random Forest,142,0.03120555555555593
+pinning_fraction,Random Forest,143,-0.022986111111111096
+pinning_fraction,Random Forest,144,-0.04189999999999977
+pinning_fraction,Random Forest,145,-0.01499722222222194
+pinning_fraction,Random Forest,146,0.03120555555555593
+pinning_fraction,Random Forest,147,-0.0451805555555555
+pinning_fraction,Random Forest,148,-0.04189999999999977
+pinning_fraction,Random Forest,149,0.038138888888889055
+pinning_fraction,Random Forest,150,0.016822222222222627
+pinning_fraction,Random Forest,151,0.030555555555555836
+pinning_fraction,Random Forest,152,0.016986111111111313
+pinning_fraction,Random Forest,153,-0.03015833333333323
+pinning_fraction,Random Forest,154,0.0436055555555559
+pinning_fraction,Random Forest,155,-0.008330555555555452
+pinning_fraction,Random Forest,156,0.0436055555555559
+pinning_fraction,Random Forest,157,-0.0451805555555555
+pinning_fraction,Random Forest,158,0.0527861111111112
+pinning_fraction,Random Forest,159,-0.037430555555555356
+pinning_fraction,Random Forest,160,0.0436055555555559
+pinning_fraction,Random Forest,161,0.025391666666666923
+pinning_fraction,Random Forest,162,-0.034574999999999745
+pinning_fraction,Random Forest,163,-0.0008527777777775913
+pinning_fraction,Random Forest,164,-0.04189999999999977
+pinning_fraction,Random Forest,165,-0.04424722222222205
+pinning_fraction,Random Forest,166,0.03120555555555593
+pinning_fraction,Random Forest,167,-0.015749999999999875
+pinning_fraction,Random Forest,168,-0.03015833333333323
+pinning_fraction,Random Forest,169,-0.008330555555555452
+pinning_fraction,Random Forest,170,-0.0038194444444441533
+pinning_fraction,Random Forest,171,-0.008330555555555452
+pinning_fraction,Random Forest,172,0.0527861111111112
+pinning_fraction,Random Forest,173,0.016822222222222627
+pinning_fraction,Random Forest,174,0.00864722222222264
+pinning_fraction,Random Forest,175,-0.013705555555555138
+pinning_fraction,Random Forest,176,-0.02424722222222203
+pinning_fraction,Random Forest,177,0.0436055555555559
+pinning_fraction,Random Forest,178,0.0574111111111113
+pinning_fraction,Random Forest,179,-0.037430555555555356
+pinning_fraction,Random Forest,180,0.00864722222222264
+pinning_fraction,Random Forest,181,-0.032163888888888714
+pinning_fraction,Random Forest,182,0.038138888888889055
+pinning_fraction,Random Forest,183,0.0436055555555559
+pinning_fraction,Random Forest,184,-0.013705555555555138
+pinning_fraction,Random Forest,185,0.02847500000000025
+pinning_fraction,Random Forest,186,0.026980555555555674
+pinning_fraction,Random Forest,187,-0.02869444444444408
+pinning_fraction,Random Forest,188,-0.056858333333332955
+pinning_fraction,Random Forest,189,0.05522222222222245
+pinning_fraction,Random Forest,190,0.016822222222222627
+pinning_fraction,Random Forest,191,0.0527861111111112
+pinning_fraction,Random Forest,192,0.030555555555555836
+pinning_fraction,Random Forest,193,0.024905555555555736
+pinning_fraction,Random Forest,194,-0.02869444444444408
+pinning_fraction,Random Forest,195,0.09297222222222262
+pinning_fraction,Random Forest,196,-0.030074999999999907
+pinning_fraction,Random Forest,197,0.006161111111111506
+pinning_fraction,Random Forest,198,-0.022986111111111096
+pinning_fraction,Random Forest,199,-0.02415555555555543
+pinning_fraction,Random Forest,200,0.0021000000000001573

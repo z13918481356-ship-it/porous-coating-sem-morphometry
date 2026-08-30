@@ -1,0 +1,9 @@
+target,model,n_conditions,status,mae,median_absolute_error,r2_oof,mae_skill_vs_mean_baseline,permutation_p_one_sided,n_permutations
+contact_angle_deg,Training-mean baseline,8,evaluated_condition_level_loocv,2.9107142857142847,2.722857142857137,-0.30612244897959484,0.0,,0.0
+contact_angle_deg,Ridge,8,evaluated_condition_level_loocv,4.098932311451463,2.525319702085838,-2.7782193569085525,-1.1882180257371786,0.9203980099502488,200.0
+contact_angle_deg,Random Forest,8,evaluated_condition_level_loocv,2.6172236309523917,2.5804614285713825,-0.058583656407444895,0.29349065476189296,0.22388059701492538,200.0
+hysteresis_deg,not_fit,4,descriptive_only_fewer_than_6_conditions,,,,,,
+rolloff_angle_deg,not_fit,4,descriptive_only_fewer_than_6_conditions,,,,,,
+pinning_fraction,Training-mean baseline,6,evaluated_condition_level_loocv,0.4933333333333334,0.45999999999999996,-0.44000000000000017,0.0,,0.0
+pinning_fraction,Ridge,6,evaluated_condition_level_loocv,0.865353973206493,0.634112306494725,-5.938360345808058,-0.3720206398731596,0.12935323383084577,200.0
+pinning_fraction,Random Forest,6,evaluated_condition_level_loocv,0.5438805555555554,0.5808666666666666,-0.6375500034482746,-0.050547222222221966,0.9203980099502488,200.0

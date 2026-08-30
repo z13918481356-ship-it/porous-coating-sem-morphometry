@@ -1,0 +1,2 @@
+n,bootstrap_replicates,median_dice_gain,median_dice_gain_ci_low,median_dice_gain_ci_high,mean_dice_gain,mean_dice_gain_ci_low,mean_dice_gain_ci_high,unet_wins,unet_losses
+60,10000,0.18171954406941265,0.1482916446122765,0.2009096921246648,0.18701244878669895,0.15830521007766007,0.217741731427301,58,2

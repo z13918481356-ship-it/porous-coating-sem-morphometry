@@ -1,0 +1,25 @@
+pair_id,dataset,official_partition,target_depth_quantile,square_index,x_start,y_start,z_index_zero_based,source_zip_path,reference_semantics,selection_replacement
+FIBSEM-HPC22-SQ089-Z029,HPC22,test,0.1,89,984,1476,29,data/raw/HPC22/HPC22_0030.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ099-Z043,HPC22,test,0.2,99,1254,465,43,data/raw/HPC22/HPC22_0044.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ082-Z063,HPC22,test,0.3,82,1617,483,63,data/raw/HPC22/HPC22_0064.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ015-Z082,HPC22,test,0.4,15,425,1428,82,data/raw/HPC22/HPC22_0083.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ079-Z090,HPC22,test,0.6,79,738,1710,90,data/raw/HPC22/HPC22_0091.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ058-Z154,HPC22,test,0.7,58,1191,2331,154,data/raw/HPC22/HPC22_0155.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ011-Z178,HPC22,test,0.8,11,1238,2716,178,data/raw/HPC22/HPC22_0179.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC22-SQ051-Z180,HPC22,test,0.9,51,766,1799,180,data/raw/HPC22/HPC22_0181.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ075-Z026,HPC30,test,0.1,75,1601,906,26,data/raw/HPC30/HPC30_0027.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ008-Z044,HPC30,test,0.2,8,681,306,44,data/raw/HPC30/HPC30_0045.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ082-Z063,HPC30,test,0.3,82,1617,483,63,data/raw/HPC30/HPC30_0064.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ015-Z082,HPC30,test,0.4,15,425,1428,82,data/raw/HPC30/HPC30_0083.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ093-Z128,HPC30,test,0.6,93,1251,1426,128,data/raw/HPC30/HPC30_0129.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ005-Z137,HPC30,test,0.7,5,401,2751,137,data/raw/HPC30/HPC30_0138.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ092-Z160,HPC30,test,0.8,92,1395,315,160,data/raw/HPC30/HPC30_0161.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC30-SQ034-Z182,HPC30,test,0.9,34,833,1830,182,data/raw/HPC30/HPC30_0183.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ075-Z026,HPC45,test,0.1,75,1601,906,26,data/raw/HPC45/HPC45_0027.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ066-Z045,HPC45,test,0.2,66,303,1467,45,data/raw/HPC45/HPC45_0046.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ003-Z063,HPC45,test,0.3,3,463,2341,63,data/raw/HPC45/HPC45_0064.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ044-Z077,HPC45,test,0.4,44,1535,2003,77,data/raw/HPC45/HPC45_0078.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ028-Z115,HPC45,test,0.6,28,1153,1082,115,data/raw/HPC45/HPC45_0116.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ057-Z139,HPC45,test,0.7,57,1479,513,139,data/raw/HPC45/HPC45_0140.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ055-Z155,HPC45,test,0.8,55,469,834,155,data/raw/HPC45/HPC45_0156.tif,255=pore; derived from manual M=0,none
+FIBSEM-HPC45-SQ018-Z183,HPC45,test,0.9,18,1278,704,183,data/raw/HPC45/HPC45_0184.tif,255=pore; derived from manual M=0,none

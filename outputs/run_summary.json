@@ -1,0 +1,17 @@
+{
+  "images_total": 28,
+  "coating_images": 18,
+  "calibrated_images": 28,
+  "unique_property_workbooks": 88,
+  "matched_modeling_images": 11,
+  "matched_condition_groups": 8,
+  "failure_cases": 1,
+  "unet_reference_masks": 0,
+  "figure_files": [
+    "figure_1_dataset_audit.png",
+    "figure_2_segmentation_comparison.png",
+    "figure_3_morphology_feature_map.png",
+    "figure_4_wetting_durability.png",
+    "figure_5_models_and_robustness.png"
+  ]
+}

@@ -1,0 +1,7 @@
+relative_path,condition_key,exclusion_reason
+Figure 5/900C SP_Coating after tape test_SEM.tif,900C|PDMS|unknown|spray|tape|5|sprayna,no exact condition/test/cycle property row
+Figure 6/Binder SP_coating failure after tape_magnified_SEM.tif,binder|PUR|unknown|spray|tape|25|sprayna,"post-tape cycle-25 SEM exists, but the available binder wetting workbook is not cycle-resolved"
+Figure 6/Binder SP_coating failure after tape_SEM.tif,binder|PUR|unknown|spray|tape|25|sprayna,"post-tape cycle-25 SEM exists, but the available binder wetting workbook is not cycle-resolved"
+Supplementary Figure S3/SP coating_1 spray cycle.png,base|unknown|unknown|spray|none|na|spray1,no exact condition/test/cycle property row
+Supplementary Figure S3/SP coating_2 spray cycle.png,base|unknown|unknown|spray|none|na|spray2,no exact condition/test/cycle property row
+Supplementary Figure S3/SP coating_3 spray cycle.png,base|unknown|unknown|spray|none|na|spray3,no exact condition/test/cycle property row

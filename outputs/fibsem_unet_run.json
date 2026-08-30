@@ -1,0 +1,10 @@
+{
+  "seed": 20260830,
+  "device": "cpu",
+  "torch_version": "2.13.0+cpu",
+  "best_epoch": 26,
+  "best_validation_macro_dice": 0.8150744785865148,
+  "epochs_completed": 41,
+  "elapsed_seconds": 809.6941831111908,
+  "test_evaluations": 1
+}

@@ -1,0 +1,25 @@
+patch_id,source_relative_path,condition_key,split,x0_px,y0_px,width_px,height_px,pixel_size_um,patch_width_um,field_width_um,annotator_a_status,annotator_b_status,adjudication_status,magnification_stratum
+SEMANN-001,Figure 5/900C SP_Coating after tape test_SEM.tif,900C|PDMS|unknown|spray|tape|5|sprayna,validation,256,98,512,512,0.4466,228.6592,457.3184,pending,pending,pending,fine
+SEMANN-002,Figure 6/900C SP_coating failure after abrasion_magnified_SEM.tif,900C|PUR|unknown|spray|abrasion|15|sprayna,test,256,98,512,512,0.04466,22.86592,45.73184,pending,pending,pending,fine
+SEMANN-003,Figure 6/900C SP_coating failure after abrasion_SEM.tif,900C|PUR|unknown|spray|abrasion|15|sprayna,test,256,98,512,512,0.4466,228.6592,457.3184,pending,pending,pending,fine
+SEMANN-004,Figure 4/sieved SP coating_SEM.tif,base|PDMS|sieved|spray|none|na|sprayna,train,256,98,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
+SEMANN-005,Figure 4/unsieved SP coating_SEM_02.tif,base|PDMS|unsieved|spray|none|na|sprayna,train,256,98,512,512,0.4466,228.6592,457.3184,pending,pending,pending,fine
+SEMANN-006,Figure 4/unsieved SP coating_SEM_01.tif,base|PDMS|unsieved|spray|none|na|sprayna,train,256,98,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
+SEMANN-007,Supplementary Figure S7/sieved SP coating_PUR_SEM.tif,base|PUR|sieved|spray|none|na|sprayna,train,256,98,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
+SEMANN-008,Supplementary Figure S7/unsieved SP coating_PUR_SEM.tif,base|PUR|unsieved|spray|none|na|sprayna,train,256,98,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
+SEMANN-009,Supplementary Figure S4/SP dip coating_SEM.tif,base|unknown|unknown|dip|none|na|sprayna,train,256,98,512,512,0.4466,228.6592,457.3184,pending,pending,pending,fine
+SEMANN-010,Supplementary Figure S3/SP coating_1 spray cycle.png,base|unknown|unknown|spray|none|na|spray1,validation,158,0,374,374,0.694444,259.722056,479.16636,pending,pending,pending,coarse
+SEMANN-011,Supplementary Figure S3/SP coating_2 spray cycle.png,base|unknown|unknown|spray|none|na|spray2,test,158,0,374,374,0.694444,259.722056,479.16636,pending,pending,pending,coarse
+SEMANN-012,Supplementary Figure S3/SP coating_3 spray cycle.png,base|unknown|unknown|spray|none|na|spray3,validation,158,0,374,374,0.694444,259.722056,479.16636,pending,pending,pending,coarse
+SEMANN-013,Figure 3/High magnification SP coating SEM.tif,base|unknown|unknown|spray|none|na|sprayna,train,256,98,512,512,0.011165,5.71648,11.43296,pending,pending,pending,fine
+SEMANN-014,Figure 3/Coating top-view SEM.tif,base|unknown|unknown|spray|none|na|sprayna,train,256,98,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
+SEMANN-015,Figure 6/Binder SP_coating failure after tape_magnified_SEM.tif,binder|PUR|unknown|spray|tape|25|sprayna,train,256,98,512,512,0.02233,11.43296,22.86592,pending,pending,pending,fine
+SEMANN-016,Figure 6/Binder SP_coating failure after tape_SEM.tif,binder|PUR|unknown|spray|tape|25|sprayna,train,256,98,512,512,0.2233,114.3296,228.6592,pending,pending,pending,fine
+SEMANN-017,Figure 5/Unsintered SP_Coating after tape test_SEM.tif,unsintered|PDMS|unknown|spray|tape|1|sprayna,train,256,98,512,512,0.4466,228.6592,457.3184,pending,pending,pending,fine
+SEMANN-018,Figure 3/High magnification SP coating SEM.tif,base|unknown|unknown|spray|none|na|sprayna,train,512,0,512,512,0.011165,5.71648,11.43296,pending,pending,pending,fine
+SEMANN-019,Figure 6/900C SP_coating failure after abrasion_magnified_SEM.tif,900C|PUR|unknown|spray|abrasion|15|sprayna,test,512,0,512,512,0.04466,22.86592,45.73184,pending,pending,pending,fine
+SEMANN-020,Figure 5/900C SP_Coating after tape test_SEM.tif,900C|PDMS|unknown|spray|tape|5|sprayna,validation,512,0,512,512,0.4466,228.6592,457.3184,pending,pending,pending,fine
+SEMANN-021,Figure 5/Unsintered SP_Coating after tape test_SEM.tif,unsintered|PDMS|unknown|spray|tape|1|sprayna,train,512,0,512,512,0.4466,228.6592,457.3184,pending,pending,pending,coarse
+SEMANN-022,Supplementary Figure S3/SP coating_1 spray cycle.png,base|unknown|unknown|spray|none|na|spray1,validation,316,0,374,374,0.694444,259.722056,479.16636,pending,pending,pending,coarse
+SEMANN-023,Supplementary Figure S7/sieved SP coating_PUR_SEM.tif,base|PUR|sieved|spray|none|na|sprayna,train,512,0,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
+SEMANN-024,Figure 3/Coating top-view SEM.tif,base|unknown|unknown|spray|none|na|sprayna,train,512,0,512,512,1.1165,571.648,1143.296,pending,pending,pending,coarse
